@@ -1,4 +1,4 @@
-/* Estructuras de Control
+/* --Estructuras de Control
 Problema: Autos de Carrera
 • En una prueba, un piloto tiene que completar 4
 vueltas
