@@ -1,6 +1,5 @@
 /* Estructuras de Control
 Problema: Autos de Carrera
-
 • En una prueba, un piloto tiene que completar 4
 vueltas
 • Se necesita un programa que permita ingresar
